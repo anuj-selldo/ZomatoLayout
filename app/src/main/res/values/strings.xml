@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KotlinBasics</string>
+    <string name="skip">Skip</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="or">OR</string>
+    <string name="emailimage">emailimage</string>
+    <string name="continue_with_email">Continue with email</string>
+    <string name="mode">Mode</string>
+    <string name="offer">offer</string>
+    <string name="time">time</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
